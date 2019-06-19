@@ -9,3 +9,4 @@ def batch_badge_creator(peeps)
   "Hello, my name is #{name}."
   end
 end
+
