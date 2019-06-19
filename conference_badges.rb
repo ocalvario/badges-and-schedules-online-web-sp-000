@@ -10,3 +10,5 @@ def batch_badge_creator(peeps)
   end
 end
 
+def assign_rooms(peeps)
+  
